@@ -11,7 +11,7 @@ mongoose.set('debug', true);
 const uri = 'mongodb+srv://mamadouunicotedazur:ANGULAR@cluster0.sumys.mongodb.net/assignments?retryWrites=true&w=majority&appName=Cluster0';
 
 const options = {
-  useNewUrlParser: true,
+  //useNewUrlParser: true,
   useUnifiedTopology: true,
   //useFindAndUpdate:false
 };
